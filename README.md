@@ -1,10 +1,11 @@
-## Welcome to GitHub Pages
+## Euroopa poliitiline kaart aastal 867
 
-You can use the [editor on GitHub](https://github.com/reiotrv/Aasta-867/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Kaardid on alati kasulikud, et aidata lugejal käsitletavat teemat paremini mõista. Üheksanda sajandi kohta valdavalt puuduvad konkreetsed ja üksikasjalikud kaardid. 
+Käesoleva uurimistöö eesmärgiks on leida, millised poliitilised üksused eksisteerisid aastal 867 ning selle põhjal luua uus kaardi andmestik. 
+Selleks viiakse läbi erinevate varakeskaja teemaliste kaartide ja kirjanduse analüüsimise, poliitiliste üksuste andmete kogumise ja eelnimetatud andmete digitaliseerimise. Lähemalt uuritakse, millised nägid välja suuremad poliitilised üksused: kuidas tekkisid, kuidas toimisid ja kuidas muutusid. Analüüsitakse kirjalikke allikaid ja luuakse nende andmete põhjal kaardi andmestik.
+Uurimistöö tulemuseks on kaardi andmestik, mis on mõeldud varakeskaja poliitilise maailma paremini mõistmiseks. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Iirimaa
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
