@@ -6,4 +6,4 @@ Terve kaardi juurdepääsuks loodi GitHub Pagesis lehekülje, kust saab endale a
 
 ### Kaardi alla laadimine
 
-![Image](aasta-867.svg)
+![Link](Artboard 1.pdf)
