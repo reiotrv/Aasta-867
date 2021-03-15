@@ -6,4 +6,4 @@ Terve kaardi juurdepääsuks loodi GitHub Pagesis lehekülje, kust saab endale a
 
 ### Kaardi alla laadimine
 
-![Image](https://github.com/reiotrv/Aasta-867/blob/main/aasta867.svg)
+![Image](/assets/images/Aasta-867/blob/main/aasta867.svg)
