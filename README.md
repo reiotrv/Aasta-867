@@ -6,4 +6,4 @@ Terve kaardi juurdepääsuks loodi GitHub Pagesis lehekülje, kust saab endale a
 
 ### Kaardi alla laadimine
 
-![Image](Artboard 1.pdf)
+<a href="https://github.com/reiotrv/Aasta-867/blob/main/Artboard%201.pdf" target="_blank">PDF.</a>
