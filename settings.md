@@ -6,4 +6,4 @@ Terve kaardi juurdepääsuks loodi GitHub Pagesis lehekülje, kust saab endale a
 
 ### Kaardi alla laadimised
 
-<a href="https://github.com/reiotrv/Aasta-867/blob/main/Euroopa kaart.pdf" target="_blank">Euroopa kaardi alla laadimine</a>
+<a href="https://github.com/reiotrv/Aasta-867/blob/main/Euroopa kaart.pdf" target="_blank">Euroopa kaart</a>
