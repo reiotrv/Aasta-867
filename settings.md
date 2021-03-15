@@ -4,6 +4,6 @@ Uurimistöös loodi kaart, mille ülesanne on aidata lugejal käsitletavat varak
 
 Terve kaardi juurdepääsuks loodi GitHub Pagesis lehekülje, kust saab endale alla laadida uurimistöös valmistatud 867. aasta Euroopa poliitilise kaardi
 
-### Kaardi alla laadimine
+### Kaardi alla laadimised
 
-<a href="https://github.com/reiotrv/Aasta-867/blob/main/Euroopa kaart.pdf" target="_blank">PDF.</a>
+<a href="https://github.com/reiotrv/Aasta-867/blob/main/Euroopa kaart.pdf" target="_blank">Euroopa kaardi alla laadimine</a>
